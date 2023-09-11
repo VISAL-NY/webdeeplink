@@ -73924,7 +73924,7 @@ s($,"aC4","ans",()=>A.avx())
 s($,"azn","d_",()=>A.n0(A.ahH(A.a([1],t.t)).buffer,0,null).getInt8(0)===1?B.V:B.xr)
 s($,"aCz","Rc",()=>new A.St(A.y(t.N,A.a2("jK"))))
 s($,"aCT","anT",()=>{var q=t.yo
-return A.aqI(A.a([A.adg(new A.ac_(),":more",A.a([A.adg(new A.ac0(),"/detail/:detail",B.kV)],q))],q))})
+return A.aqI(A.a([A.adg(new A.ac_(),":more",A.a([A.adg(new A.ac0(),"detail/:detail",B.kV)],q))],q))})
 s($,"aCB","anL",()=>new A.JZ())
 s($,"aAO","amH",()=>A.em(1,0,t.i))
 s($,"aAN","amG",()=>A.em(0,1,t.i))
