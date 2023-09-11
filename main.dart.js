@@ -73690,7 +73690,7 @@ s($,"aBE","an2",()=>A.av6())
 s($,"ayX","cZ",()=>A.mU(A.ahm(A.a([1],t.t)).buffer,0,null).getInt8(0)===1?B.V:B.xp)
 s($,"aC7","R4",()=>new A.Sk(A.y(t.N,A.a0("jH"))))
 s($,"aCr","ans",()=>{var q=t.yo
-return A.aqh(A.a([A.acX(new A.abG(),"/:more",A.a([A.acX(new A.abH(),"detail/:detail",B.kV)],q))],q))})
+return A.aqh(A.a([A.acX(new A.abG(),":more",A.a([A.acX(new A.abH(),"/detail/:detail",B.kV)],q))],q))})
 s($,"aC9","ank",()=>new A.JR())
 s($,"aAo","ami",()=>A.ek(1,0,t.i))
 s($,"aAn","amh",()=>A.ek(0,1,t.i))
